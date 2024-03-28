@@ -1,0 +1,17 @@
+Comments are non-executable lines of code used for documentation purposes. In HTML, comments are enclosed within <!-- and --> tags and are not displayed on the webpage. They're helpful for developers to annotate their code, provide explanations, or temporarily disable certain sections without affecting the webpage's functionality. 
+Single Line Comments-
+Single line comments are used to annotate a single line of code. In HTML, single line comments are enclosed within <!-- and --> tags.
+Multi-line Comments-
+Multi-line comments are used to annotate multiple lines of code. In HTML, multi-line comments are also enclosed within <!-- and --> tags, but they can span across multiple lines. They're useful for longer explanations, comments that span multiple lines of code, or for temporarily disabling large sections of code.
+Example - 
+<body>
+    <h1>Welcome to my website</h1>
+    
+    <!-- This is a comment -->
+    <p>This paragraph contains some text.</p>
+    
+    <!-- 
+        This is a multi-line comment.
+        It can span multiple lines.
+    -->
+</body>

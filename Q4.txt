@@ -1,0 +1,5 @@
+a "tag" serves as a notation delineated by angle brackets (< >), which denotes the structure or presentation of content. Tags typically occur in pairs: an opening tag signifies the start of an element, while a closing tag denotes its conclusion. An "element" comprises an opening tag, content, and a closing tag, with the content encapsulated between the tags.
+example - 
+<p> This is a paragraph </p>
+here , <p> and </p> are tags (opening and closing tags respectively)
+and this complete (<p> This is a paragraph </p>) is an element and "This is a paragraph" is content.

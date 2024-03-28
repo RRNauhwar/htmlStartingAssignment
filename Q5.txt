@@ -1,0 +1,3 @@
+DOCTYPE Declaration in HTML - 
+It declares the document type and version of HTML 
+ 
